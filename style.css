@@ -1,0 +1,6 @@
+/* Universal selector */
+* {
+}
+body {
+  background-color: cadetblue;
+}
